@@ -1,1 +1,2 @@
 numpy
+nodejs>=12.0.0
