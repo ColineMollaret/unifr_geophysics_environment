@@ -1,8 +1,1 @@
 numpy
-nodejs>=12.0.0
-#plotly
-#pandas
-#openpyxl
-#matplotlib==3.7.0
-#ipywidgets
-#pygimli>=1.5.0
