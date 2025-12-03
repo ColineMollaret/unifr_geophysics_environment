@@ -4,3 +4,7 @@ matplotlib
 pygimli
 reda
 nodejs
+openpyxl
+ipywidgets
+dash
+plotly
