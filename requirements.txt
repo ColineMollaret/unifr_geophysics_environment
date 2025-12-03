@@ -8,3 +8,7 @@ openpyxl
 ipywidgets
 dash
 plotly
+seaborn
+psycopg2
+pyproj
+jupyterlab
