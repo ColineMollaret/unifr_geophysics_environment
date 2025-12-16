@@ -12,3 +12,4 @@ seaborn
 psycopg2
 pyproj
 jupyterlab
+IPython
